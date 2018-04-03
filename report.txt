@@ -1,0 +1,29 @@
+===========Report for Patient #193518 at Tue Apr  3 12:39:09 2018===============
+Stream Start: Mon 02 Apr 2018 20:22:20 GMT
+Stream Start: Mon 02 Apr 2018 20:50:31 GMT
+
+-----Light Level-----
+Minimum Light Level: 12 lx
+Average Light Level: 17 lx
+Maximum Light Level: 18 lx
+
+-----CO2 Level-----
+Minimum CO2 Level: 0 ppm
+Average CO2 Level: 456 ppm
+Maximum CO2 Level: 889 ppm
+
+-----Humidity Level-----
+Minimum Humidity Level: 10%
+Average Humidty Level: 11%
+Maximum Humidty Level: 13%
+
+-----Temperature Level-----
+Minimum Temperature Level: 28 C
+Average Temperature Level: 29 C
+Maximum Temperature Level: 30 C
+
+-----Sound Level-----
+Minimum Sound Level: 0 db
+Average Sound Level: 66 db
+Maximum Sound Level: 48 db
+
